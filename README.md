@@ -2,8 +2,6 @@
 
 Authors: Cole Herman and Kobe Pane
 
----
-
 ## To Get Started:
 
 1. Clone the repository
